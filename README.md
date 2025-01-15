@@ -20,7 +20,6 @@ This suite provides a comprehensive set of tools and resources for integrating O
 
 <br>
 
-```markdown
 📚 **Table of Contents**
 
 *   [Overview & Accessibility](#overview--accessibility)
@@ -47,7 +46,8 @@ This suite prioritizes accessibility with:
 *   Progress indicators
 *   Cost transparency
 
-```
+<br>
+
 ## Installation 🛠️
 To install the necessary packages, run the following command in your terminal:
 
@@ -179,7 +179,6 @@ Please open an issue or contact the maintainers.
 
 *   OpenAI for their fantastic APIs
 *   The Python community for helpful packages
-```
 
 **Key Changes Made:**
 
@@ -191,4 +190,11 @@ Please open an issue or contact the maintainers.
 *   **Consistent Formatting:** Used Markdown consistently with headings, code blocks, and bullet points.
 *  **Links:** Added link to OpenAI platform
 
-This revised version should be more user-friendly and easier to navigate, especially for those with learning differences. It clearly outlines the features of each script and how to execute them. Let me know if you have any other requests.
+<br>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/davidtkeane">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=davidtkeane&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee">
+  </a>
+</p>
+
