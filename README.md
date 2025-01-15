@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&labelColor=white" alt="Linux-Badge">
 </p>
 
-> This suite provides a comprehensive set of tools and resources for integrating OpenAI's powerful language models into your applications. Whether you're building chatbots, virtual assistants, or any other AI-powered solution, this suite will help you streamline your development process and ensure that your applications are built on top of the latest technology. 
+This suite provides a comprehensive set of tools and resources for integrating OpenAI's powerful language models into your applications. Whether you're building chatbots, virtual assistants, or any other AI-powered solution, this suite will help you streamline your development process and ensure that your applications are built on top of the latest technology. 
 
 > Note:
 > * Designed to be accessible and easy to understand, especially for users with learning differences like dyslexia.
