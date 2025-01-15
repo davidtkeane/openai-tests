@@ -64,7 +64,7 @@ Advanced features:
 - Cost estimation per request
 - Organized file storage
 
-### 2. Speech-to-Text (openai_Speech-to-Text-v2.py)
+### 2. Speech-to-Text (openai_Speech-to-Text.py)
 Capabilities:
 - Multi-language support
 - Batch processing
@@ -97,6 +97,44 @@ Features:
 - Performance metrics
 - Error logging
 
+
+### 6. Audio Text-to-Speech (openai_audio.p) 🎤 
+(Enhanced Version)
+Features:
+- Object-oriented design with AudioGenerator class
+- Multiple voice options (alloy, echo, fable, onyx, nova, shimmer)
+- Format selection (mp3, wav, opus, aac)
+- Detailed cost tracking
+- Progress indicators
+- Error handling and logging
+- Language support
+- Organized file storage
+
+```bash
+python openai_audio.py
+```
+
+Key Improvements in Enhanced Version:
+- 📊 Cost calculation and tracking
+- 🔊 Multiple voice options
+- 💾 Better file organization
+- 🌍 Language support
+- 📝 Logging functionality
+- ⚠️ Comprehensive error handling
+- 🎵 Multiple audio formats
+
+### API Token Testing (openai_api_an_token_test.py) 🔑 
+
+- Tests API connectivity
+- Calculates token usage
+- Tracks costs in EUR
+- Supports GPT-4 model
+- Basic error handling
+
+```bash
+python openai_api_an_token_test.py
+```
+
 ## Usage Examples 🎓
 
 ### Image Generation
@@ -108,8 +146,6 @@ python openai_images.py
 # 3. Create variations
 # 4. View cost summary
 ```
-
-[Additional usage examples for each script...]
 
 ## Cost Tracking �
 
@@ -129,6 +165,35 @@ Planned enhancements:
 4. Advanced error recovery
 5. More customization options
 6. Enhanced accessibility features
+
+## Future Updates & Planned Improvements: 🚀
+- Multiple model support
+- Batch testing capabilities
+- Cost comparison between models
+- Historical usage tracking
+- Performance metrics
+- Interactive testing mode
+- Export results to CSV/JSON
+- Advanced logging options
+- Integration with other AI tools
+
+### Audio Processing
+- Batch processing for multiple files
+- More voice options
+- Custom voice fine-tuning
+- Real-time voice preview
+- Audio file format conversion
+- Background noise reduction
+- Speed and pitch adjustment
+
+### API Testing
+- Interactive testing interface
+- Model comparison tool
+- Cost optimization suggestions
+- Usage analytics dashboard
+- Rate limit monitoring
+- Automated testing schedules
+- Performance benchmarking
 
 ## Troubleshooting 🔧
 
