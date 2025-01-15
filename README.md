@@ -1,8 +1,16 @@
 # 🤖 OpenAI API Integration Suite
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-Windows%2011-0078D6?logo=windows&logoColor=0078D6&labelColor=white" alt="Windows-Badge">
+  <img src="https://img.shields.io/badge/Apple-macOS-white?logo=apple&logoColor=white&labelColor=gray" alt="AppleMac-Badge">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&labelColor=white" alt="Linux-Badge">
+</p>
+
 > A comprehensive collection of Python scripts demonstrating OpenAI's powerful APIs, designed to be accessible and easy to understand, especially for users with learning differences like dyslexia.
 
 > **Note**: These scripts were developed using the [OpenAI API documentation](https://platform.openai.com/docs/api-reference) as a reference, with additional enhancements for better usability and error handling.
+
 
 ```markdown
 **Note:** These scripts require an active OpenAI API key. Please ensure you have one before proceeding.
